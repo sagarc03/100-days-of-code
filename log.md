@@ -8,6 +8,14 @@
 
 **Link to work:** Link
 
+## Day 1: January 29th 2020
+
+**Today's Progress**: I implemented some of the algorithms code questions and graph based algo in python. Also learned about collections data structure in python
+
+**Thoughts:** Progress has been slow I hope to pick it up once I decided what project I really want to pursue after this.
+
+**Link to work:** [Algorithms](https://github.com/sagarc03/Projects-Solution-Python/tree/master/Algorithm) and [Graphs](https://github.com/sagarc03/Projects-Solution-Python/tree/master/Graph)
+
 ## Day 0: Janary 27th 2020
 
 **Today's Progress**: I set my objectives and wrote a the first problem.
